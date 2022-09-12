@@ -46,4 +46,5 @@ By default this ESLint configuration is forcing you to use `double quote` and `s
 
 **How to change icon**: replace icon in `public` folder with same name as `icon.ico`. size must be at least 256x256.
 <br/>
+<br/>
 **How to change application data directory**: By default, application data placed in `$HOME/electron-fullstack-quick-start`. to change, edit the `appDirectory` value in `knexfile/sqlite/knexfile.ts` to your preference. it will automatically created if not exists by the `winston` library ability.
