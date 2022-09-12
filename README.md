@@ -21,10 +21,18 @@ Based on [electron-vite](https://github.com/electron-vite/electron-vite-vue)
 - Light & Dark Theme Support
 
 ## Usage
+1. Clone this repo
 ```bash
-npm create
+git clone https://github.com/aufarijaal/electron-fullstack-quick-start.git
 ```
-
+2. Go to directory
+```bash
+cd electron-fullstack-quick-start
+```
+3. Install dependencies and run the development server
+```bash
+yarn && yarn dev
+```
 ## Recommended IDE Setup
 Extension:
 - Volar
