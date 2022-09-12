@@ -4,6 +4,9 @@
 
 Based on [electron-vite](https://github.com/electron-vite/electron-vite-vue)
 
+### Preview
+<img src="public/electron-fullstack-quick-start-demo.gif"/>
+
 ### Build with:
 - Typescript
 - JS Framework: [Vue 3](https://github.com/vuejs/vue)
