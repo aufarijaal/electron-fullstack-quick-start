@@ -1,5 +1,7 @@
 # Electron Fullstack Quick Start
 
+<img src="public/banner.png"/>
+
 Based on [electron-vite](https://github.com/electron-vite/electron-vite-vue)
 
 ### Build with:
