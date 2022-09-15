@@ -28,7 +28,7 @@ Based on [electron-vite](https://github.com/electron-vite/electron-vite-vue)
 ## Usage
 1. Clone this repo
 ```bash
-git clone https://github.com/aufarijaal/electron-fullstack-quick-start.git
+git clone https://github.com/aufarijaal/electron-fullstack-quick-start
 ```
 2. Go to directory
 ```bash
@@ -53,3 +53,8 @@ By default this ESLint configuration is forcing you to use `double quote` and `s
 <br/>
 <br/>
 **How to change application data directory**: By default, application data placed in `$HOME/electron-fullstack-quick-start`. to change, edit the `appDirectory` value in `knexfile/sqlite/knexfile.ts` to your preference. it will automatically created if not exists by the `winston` library ability.
+
+## OTHER UI OPTIONS
+There are some other ui library options for this template. Check below.
+
+- [Electron Fullstack Quick Start (Vuestic UI)](https://github.com/aufarijaal/electron-fullstack-quick-start-vuestic)
