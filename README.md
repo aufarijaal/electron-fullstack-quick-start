@@ -1,4 +1,4 @@
-# Electron Fullstack Quick Start
+## This repo is discontinued and moved to [here](https://github.com/aufarijaal/electron-quick-start-vue/tree/element-plus).
 
 <img src="public/banner.png"/>
 
